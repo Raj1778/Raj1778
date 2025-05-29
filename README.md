@@ -1,4 +1,4 @@
-## 👨‍💻 Raj | Aspiring FAANG Software Engineer
+## 👨‍💻 Raj | Aspiring Software Engineer
 
 Hi there! 👋  
 I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becoming a master programmer and securing a position at a top-tier tech company.
