@@ -44,7 +44,7 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 
 ---
 
-## 📌 Projects I'm Proud Of
+## 📌 Projects 
 
 🔄 **QuickChat** → Real-time messaging app using **Socket.IO**, **Node.js**, and **MongoDB**.  
 Includes chat rooms, live typing, and user auth.  
