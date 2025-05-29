@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=60&lines=Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+
 ## 👨‍💻 Raj | Aspiring Software Engineer
 
 Hi there! 👋  
@@ -32,9 +37,9 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 ---
 
 ## 📈 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj1778&show_icons=true&theme=radical" height="165" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj1778&theme=radical" height="165" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raj1778&show_icons=true&theme=github_dark&hide_border=false&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj1778&theme=github-dark-blue&hide_border=false&border_radius=10" height="165" />
 </p>
 
 ---
