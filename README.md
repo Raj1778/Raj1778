@@ -7,7 +7,7 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 
 💻 Currently learning **DSA**, **Full-Stack Web Development (MERN)**, and building real-world projects
 
-🚀 **Project Highlight**: *StockWise* – A Real-Time Inventory Management System
+🚀 **Project Highlight**: 🔄 **QuickChat** → Real-time messaging app
 
 🌱 Always curious | Always improving | Loves clean code & sharp tactics — both in dev & chess
 
