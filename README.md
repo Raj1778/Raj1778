@@ -10,7 +10,7 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 
 🎓 **B.Tech CSE | Batch of 2027**
 
-💻 Currently learning **DSA**, **Full-Stack Web Development (MERN)**, and building real-world projects
+💻 Currently learning **DSA**, **Full-Stack Web Development (MERN)**, **Next.js** and building real-world projects
 
 🚀 **Project Highlight**: 🔄 **QuickChat** → Real-time messaging app
 
