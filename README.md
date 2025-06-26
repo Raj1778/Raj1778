@@ -39,7 +39,7 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raj1778&show_icons=true&theme=github_dark&hide_border=false&border_radius=10" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj1778&theme=github-dark-blue&hide_border=false&border_radius=10" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Raj1778&theme=github-dark-blue&hide_border=false&border_radius=10" height="165" />
 </p>
 
 ---
