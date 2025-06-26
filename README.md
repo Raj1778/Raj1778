@@ -6,7 +6,7 @@
 ## 👨‍💻 Raj | Aspiring Software Engineer
 
 Hi there! 👋  
-I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becoming a master programmer and securing a position at a top-tier tech company.
+I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becoming a master programmer.
 
 🎓 **B.Tech CSE | Batch of 2027**
 
