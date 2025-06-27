@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=60&lines=Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
 ## 👨‍💻 Raj | Aspiring Software Engineer
 
 Hi there! 👋  
@@ -25,7 +24,7 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -57,7 +56,6 @@ Includes chat rooms, live typing, and user auth.
 ## 🤝 Let's Connect!
 
 🔗 **LinkedIn** – [linkedin.com/in/raj-b6187433b](https://www.linkedin.com/in/raj-b6187433b)  
-
 
 📫 **Reach me at** – [rajmhr078@gmail.com](mailto:rajmhr078@gmail.com)
 
