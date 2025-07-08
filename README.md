@@ -8,10 +8,10 @@ Hi there! 👋
 I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becoming a master programmer.
 
 🎓 **B.Tech CSE | Batch of 2027**
+💻 Currently diving deep into **Full-Stack Web Development (MERN)**, building real-world projects with **Next.js**, **TypeScript**, and more.
 
-💻 Currently learning **DSA**, **Full-Stack Web Development (MERN)**, **Next.js** and building real-world projects
-
-🚀 **Project Highlight**: 🔄 **QuickChat** → Real-time messaging app
+🚀 Working on **Zyngle** — a responsive, modern social media platform with post feeds, reactions, and dark mode.  
+🔗 [zyngle.vercel.app](https://zyngle.vercel.app)
 
 🌱 Always curious | Always improving | Loves clean code & sharp tactics — both in dev & chess
 
@@ -45,8 +45,12 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 
 ## 📌 Projects 
 
+🌐 **Zyngle** → A clean, responsive **social media platform** using **Next.js**, **Tailwind CSS**, and **TypeScript**.  
+Supports post feeds, reactions, dark mode, and mobile-first UI.  
+🔗 [https://zyngle.vercel.app](https://zyngle.vercel.app)
+
 🔄 **QuickChat** → Real-time messaging app using **Socket.IO**, **Node.js**, and **MongoDB**.  
-Includes chat rooms, live typing, and user auth.  
+Includes chat rooms, live typing, and user authentication.  
 🔗 [https://quickchat-nine.vercel.app](https://quickchat-nine.vercel.app)
 
 💡 More exciting ideas in the pipeline...
@@ -56,8 +60,7 @@ Includes chat rooms, live typing, and user auth.
 ## 🤝 Let's Connect!
 
 🔗 **LinkedIn** – [linkedin.com/in/raj-b6187433b](https://www.linkedin.com/in/raj-b6187433b)  
-
-📫 **Reach me at** – [rajmhr078@gmail.com](mailto:rajmhr078@gmail.com)
+📫 **Email** – [rajmhr078@gmail.com](mailto:rajmhr078@gmail.com)
 
 ---
 
