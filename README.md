@@ -7,7 +7,7 @@
 Hi there! 👋  
 I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becoming a master programmer.
 
-🎓 **B.Tech CSE | Batch of 2027**
+🎓 **B.Tech CSE | Batch of 2027** <br/>
 💻 Currently diving deep into **Full-Stack Web Development (MERN)**, building real-world projects with **Next.js**, **TypeScript**, and more.
 
 🚀 Working on **Zyngle** — a responsive, modern social media platform with post feeds, reactions, and dark mode.  
