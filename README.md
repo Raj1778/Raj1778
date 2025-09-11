@@ -49,9 +49,9 @@ I'm Raj, a passionate Computer Science undergrad ✨ working my way toward becom
 Supports post feeds, reactions, dark mode, and mobile-first UI.  
 🔗 [https://zyngle.vercel.app](https://zyngle.vercel.app)
 
-🔄 **QuickChat** → Real-time messaging app using **Socket.IO**, **Node.js**, and **MongoDB**.  
-Includes chat rooms, live typing, and user authentication.  
-🔗 [https://quickchat-nine.vercel.app](https://quickchat-nine.vercel.app)
+🔄 **DevStash** → Developer portfolio and productivity hub.  
+Includes notes, blogs, and leetcode, github stats.  
+🔗 [https://dev-stash.vercel.app](https://dev-stash.vercel.app)
 
 💡 More exciting ideas in the pipeline...
 
